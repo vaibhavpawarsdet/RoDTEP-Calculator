@@ -38,7 +38,7 @@ npm install
 - To Start the development server
 ```bash
 
-// set ur entry point in pacage.json
+// set ur entry point in package.json
 nodemon index.js / server.js
 
 ```
